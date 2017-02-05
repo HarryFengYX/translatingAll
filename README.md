@@ -12,3 +12,12 @@ Second:
   python3 vocabulary_processor
   Then what happens I forget, but it should be intuitive :)
   
+Example output:
+1.	whilst:['conj. 同时；时时，有时；当…的时候']
+2.	stumpy:['adj. 多残株的；粗短的', 'n. 矮胖者']
+3.	fence:['n. 栅栏；围墙；剑术', 'vt. 防护；用篱笆围住；练习剑术', 'vi. 击剑；搪塞；围以栅栏；跳过栅栏']
+4.	posts:['n. [劳经] 岗位；帖子；邮件（post的复数）；[测] 标杆', 'v. 公告（post的三单形式）；布置；邮寄']
+5.	wilderness:['n. 荒地；大量，茫茫一片']
+6.	growling:['adj. 咆哮的；隆隆响的', 'v. 咆哮（growl的ing形式）；怒吠']
+
+This is to save the trouble of coping words and the translation over and over.
